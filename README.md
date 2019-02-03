@@ -3,6 +3,7 @@ Narzędzie do poprawiania niechlujnej polszczyzny: poprawia błędną wielkość
 
 
 Jak uruchamiać (dla słów zawartych w pliku input.txt):
+
 make clean
 
 make
